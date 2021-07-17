@@ -2,7 +2,7 @@
 This simple package provides the Matlab code to implement the tests for detecting change points in conditional correlation structure.
 Reference:
 Barassi, M., Horváth, L. and Zhao, Y., (2018). Change‐Point Detection in the Conditional Correlation Structure of Multivariate Volatility Models. Journal of Business and Economic Statistics. **38**, 340-349.
-The package contains two main files, cv_stat.m and uyility.m
+The package contains two main files, cv_stat.m and utility.m
 
 ## cv_stat.m
 The file provides codes for computing the test statistics and the critical values for assessing the null hypothesis of no change.
