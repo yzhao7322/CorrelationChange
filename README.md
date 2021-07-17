@@ -1,4 +1,4 @@
-# Detecting-changes-in-ConditionalCorrelations
+# CorrelationChange
 This simple package provides the Matlab code to implement the tests for detecting change points in conditional correlation structure.
 Reference:
 Barassi, M., Horváth, L. and Zhao, Y., (2018). Change‐Point Detection in the Conditional Correlation Structure of Multivariate Volatility Models. Journal of Business and Economic Statistics. **38**, 340-349.
